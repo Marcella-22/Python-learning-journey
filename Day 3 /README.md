@@ -9,12 +9,12 @@ How to run :1.Open an online python compiler. 2.Copy and paste the code. 3.Click
 Code: 
 
     age = int(input("Enter your age: "))
-if age < 13:
-    print("You are a child")
-elif age < 20:
-    print("You are a teenager")
-else:
-    print("You are an adult")
+    if age < 13:
+      print("You are a child")
+    elif age < 20:
+      print("You are a teenager")
+   else:
+      print("You are an adult")
     
 Output:<img width="1366" height="768" alt="day 3 output" src="https://github.com/user-attachments/assets/b650efa8-0f1f-4cb7-840b-e6a13deca217" />
 
