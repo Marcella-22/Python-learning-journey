@@ -1,12 +1,14 @@
-Project name : Age category checker
+# Age caregory checker
 
 Description:This project is a simple programme that uses conditional statements to make decisions. It asks the user for his/her age and displays the age category based on thr input.
 
 Language: Python
 
-How to run :  
+How to run :1.Open an online python compiler. 2.Copy and paste the code. 3.Click the run button.
 
-Code: age = int(input("Enter your age: "))
+Code: 
+
+    age = int(input("Enter your age: "))
 if age < 13:
     print("You are a child")
 elif age < 20:
