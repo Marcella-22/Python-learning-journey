@@ -1,7 +1,5 @@
 # Interacrive python programme 
-Description:
-This project is a simple Python program that takes user input and displays a personalized message.  
-It demonstrates the basic use of variables, input, and output in Python.
+Task : takes user input and displays a personalized message.  
 
 Language:
       Python
