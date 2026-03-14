@@ -1,6 +1,5 @@
 # Multiplication table generator
-Description :
-  This project is a simple programme that generates the multiplication for a number entered by the user.It demonstrates the use of loops, user input, variables and basic calculations.
+Description : generates the multiplication table for a number upto the the limit entered by the user.It demonstrates the use of loops, user input, variables and basic calculations.
   
   Language:
     Python
@@ -10,15 +9,13 @@ Description :
   Code :
 ``` python
 number = int(input("Enter a number: "))
+limit = int(input("Enter the limit:"))
+print(f"Multiplication Table for, {number}")
 
-print("Multiplication Table for", number)
-
-for i in range(1, 6):
-
-    result = number * i
-    
-    print(number, "x", i, "=", result)
+for i in range(limit):
+    result=number * i
+    print(number,"x",i, "=",result)
 ```
 
-Output :
-<img width="1366" height="768" alt="Day 4 output" src="https://github.com/user-attachments/assets/df04e0ab-eb1a-42ed-aad0-8c0e0b5afb2f" />
+Output : 
+
