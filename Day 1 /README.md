@@ -1,7 +1,6 @@
 # Python basics
 
-Description:
-  This is my 1st python project. It prints some data on the screen. It helps me to learn the process of python.
+Task:It prints some data on the screen. 
 
 Language:
   Python
