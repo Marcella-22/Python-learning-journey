@@ -18,4 +18,6 @@ for i in range(limit):
 ```
 
 Output : 
+<img width="1366" height="768" alt="Screenshot 2026-03-14 09 36 52" src="https://github.com/user-attachments/assets/af9d50c4-ee4c-4b66-a8d7-fc61f6f800be" />
+
 
